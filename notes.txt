@@ -1,0 +1,6 @@
+*Branches:
+  'git branch' - see all branches
+  'git branch login_feature' - you created branch
+  'git checkout login_feature' - switch to branch
+
+git@github-ico:iscoiso/graphql-simple-server.git
